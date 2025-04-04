@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, me llamo: Adrián González</h1>
-<h3 align="center">Soy un Backend apasionado</h3>
+<h3 align="center">Soy un FullStack apasionado</h3>
 
-- 🔭 Actualmente estoy trabajando en **Orbit Consulting Group**
+- 🔭 Actualmente estoy de practicas en **GRUPO REACCIONA**
 
 - 🌱 Actualmente estoy aprendiendo **Python**
 
-- 💬 Ask me about **Python, SQL, C++, Sage**
+- 💬 Ask me about **Python, SQL, C++, Java, Spring Boot, JavaScript, Angular**
 
 - 📫 How to reach me **agonzalezencabo@gmail.com**
 
